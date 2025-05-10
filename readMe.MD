@@ -1,9 +1,10 @@
 # Facial Recognition-Based Access Control System using Raspberry Pi 5
 
-###MIT ADT University - Loni Kalbhor - Pune (MH)
-###F.Y. BTech CSE CEW Project Code
-####Under the Guidance of 
-###Prof Pranav Chipakatti
+# MIT ADT University - Loni Kalbhor - Pune (MH)
+
+F.Y. BTech CSE CEW Project Code
+Under the Guidance of 
+Prof Pranav Chipakatti
 
 ## 🧑‍💻 Credits
 
