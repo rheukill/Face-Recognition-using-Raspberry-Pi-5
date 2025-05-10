@@ -1,5 +1,24 @@
 # Facial Recognition-Based Access Control System using Raspberry Pi 5
 
+MIT ADT University - Loni Kalbhor - Pune (MH)
+F.Y. BTech CSE CEW Project Code
+Under the Guidance of 
+Prof Pranav Chipakatti
+
+## 🧑‍💻 Credits
+
+Created as a CEW Mini-Project using Raspberry Pi, OpenCV, and Python by Group No CEW24252002 and CEW24252003 by the users
+1. Pranav Ravindra Vairal [ADT24SOCB1502]
+2. Aditya Ashok Zarekar [ADT24SOCB1508]
+3. Atharav Bapurao Pawar [ADT24SOCB1514]
+4. Ayush Dubey [ADT24SOCB1516]
+5. Azmat Ali Siddiqui [ADT24SOCB1517]
+6. Nakhate Sarang Pawan [ADT24SOCB1526]
+7. Nikam Nikhil Bhaskar [ADT24SOCB1527]
+8. Nikhil Rajendra Shelar [ADT24SOCB1528]
+9. Rajale Rutuja Sachin [ADT24SOCB1534]
+10. Shivani Galinde [ADT24SOCB1538]
+
 ## 📌 Project Overview
 
 This project implements a secure and fully offline facial recognition system using Raspberry Pi 5, Camera Module V2, GPIO LEDs, and a 0.96" I2C OLED display.
@@ -138,7 +157,9 @@ facial_recognition/
 
 ## 🧑‍💻 Credits
 
-Created as a CEW Mini-Project using Raspberry Pi, OpenCV, and Python by \[Your Name].
+Created as a CEW Mini-Project using Raspberry Pi, OpenCV, and Python by Group No CEW24252002 and CEW24252003 by the users
+1. Pranav Ravindra Vairal
+2. 
 
 ```
 
