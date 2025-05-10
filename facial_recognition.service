@@ -1,0 +1,18 @@
+[Unit]
+Description=Facial Recognition System
+After=network.target display_monitor.service
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/Face-rec-main
+Environment="PATH=/home/pi/face-rec/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+Environment="PYTHONUNBUFFERED=1"
+ExecStart=/home/pi/face-rec/bin/python -u /home/pi/Face-rec-main/main.py
+Restart=on-failure
+RestartSec=30
+StandardOutput=append:/home/pi/Face-rec-main/service.log
+StandardError=append:/home/pi/Face-rec-main/service.log
+
+[Install]
+WantedBy=multi-user.target 
