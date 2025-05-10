@@ -153,18 +153,3 @@ facial_recognition/
 ├── facial_recognition.service
 └── README.md
 ```
-
----
-
-## 🧑‍💻 Credits
-
-Created as a CEW Mini-Project using Raspberry Pi, OpenCV, and Python by Group No CEW24252002 and CEW24252003 by the users
-1. Pranav Ravindra Vairal
-2. 
-
-```
-
----
-
-Let me know if you'd like this saved as a `.md` file or copied directly into your repository.
-```
