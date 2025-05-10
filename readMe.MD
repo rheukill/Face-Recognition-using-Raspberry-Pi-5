@@ -1,4 +1,4 @@
-# Facial Recognition-Based Access Control System (Raspberry Pi 5)
+# Facial Recognition-Based Access Control System using Raspberry Pi 5
 
 ## 📌 Project Overview
 
